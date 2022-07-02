@@ -1,0 +1,7 @@
+{
+  "name": "HouseMarketPlace",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
